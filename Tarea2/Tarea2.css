@@ -1,0 +1,29 @@
+.barra-nav{
+	display: inline-block; 
+	background:blue; 
+	color: black; 
+	padding: 10px 30px; 
+	text-decoration: none; 
+}
+.barra-nav:hover{
+	background: grey;
+}
+nav{
+	background: blue;
+	padding: 10px 20px;
+}
+footer{
+	background: blue;
+	padding: 10px 20px;
+}
+.constrainet{
+	height: 100vh;
+}
+.tabla{
+	margin-top: 50px;
+}
+td,th{
+	border: 2px solid black;
+	padding-right: 10px;
+	padding-left: 10px;
+}
